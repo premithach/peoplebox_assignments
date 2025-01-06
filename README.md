@@ -28,3 +28,7 @@ git commit -m 'Add example.txt with 'Hello, World!''
 
 ### Push the new branch to the remote repository
 git push -u origin feature/new-feature
+
+
+## 2. Task: Refactor the following code snippet to improve readability and maintainability
+Instead of using multiple if-elif conditions, a dictionary (status_message_map) is used to map status values like 'active' and 'inactive' to their respective messages.
